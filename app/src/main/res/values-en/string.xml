@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meter Registration</string>
+    <string name="title_registro_medidor">Meter Registration</string>
+    <string name="label_medidor">Meter</string>
+    <string name="label_fecha">Date (timestamp)</string>
+    <string name="tipo_medidor">Type of meter</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="guardar">Save</string>
+</resources>

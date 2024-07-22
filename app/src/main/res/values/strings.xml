@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ezamora-ef-2024</string>
+    <string name="title_registro_medidor">Registro Medidor</string>
+    <string name="label_medidor">Medidor</string>
+    <string name="label_fecha">Fecha (timestamp)</string>
+    <string name="tipo_medidor">Tipo de medidor</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="guardar">Guardar</string>
+</resources>
